@@ -1,6 +1,6 @@
 {
 	"Name": "Copa America",
-	"Version": 1770062092,
+	"Version": 1791139395,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -19,6 +19,7 @@
 				"247",
 				"19",
 				"20",
+				"73",
 				"22",
 				"24",
 				"25",
@@ -28,10 +29,12 @@
 				"286",
 				"288",
 				"30",
+				"312",
 				"33",
 				"248",
 				"40",
 				"279",
+				"108",
 				"43",
 				"280",
 				"303",
@@ -52,7 +55,6 @@
 				"69",
 				"259",
 				"269",
-				"73",
 				"74",
 				"295",
 				"77",
@@ -70,7 +72,6 @@
 				"275",
 				"105",
 				"106",
-				"108",
 				"110",
 				"263",
 				"111",
@@ -134,13 +135,13 @@
 				"278",
 				"205",
 				"284",
-				"209",
 				"211",
 				"292",
 				"216",
 				"272",
 				"219",
 				"298",
+				"209",
 				"227",
 				"229",
 				"231",
@@ -190,6 +191,14 @@
 				[
 					"184",
 					"264"
+				],
+				[
+					"315",
+					"244"
+				],
+				[
+					"315",
+					"212"
 				]
 			]
 		}
@@ -221,7 +230,6 @@
 				"21",
 				"28",
 				"34",
-				"36",
 				"38",
 				"39",
 				"44",
@@ -243,7 +251,8 @@
 				"109",
 				"112",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3764,6 +3773,183 @@
 				825,
 				824,
 				823
+			],
+			"ItemWhitelist": [
+				0,
+				6
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [
+				"200"
+			],
+			"KillerComboPerkBans": [
+				[
+					"210",
+					"160"
+				]
+			],
+			"SurvivorIndvPerkBans": [
+				"21",
+				"34",
+				"39",
+				"44",
+				"57",
+				"58",
+				"76",
+				"102",
+				"109",
+				"121",
+				"127",
+				"36"
+			],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				852,
+				855,
+				845,
+				851,
+				858,
+				846,
+				844
+			],
+			"ItemWhitelist": [
+				0,
+				6
+			],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [
+				"131",
+				"191",
+				"195",
+				"199",
+				"200",
+				"219",
+				"230"
+			],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"21",
+				"34",
+				"38",
+				"39",
+				"44",
+				"57",
+				"76",
+				"92",
+				"102",
+				"109",
+				"112",
+				"127",
+				"36"
+			],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [
+				877,
+				878,
+				875,
+				876,
+				872,
+				874
 			],
 			"ItemWhitelist": [
 				0,
