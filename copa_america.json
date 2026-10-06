@@ -1,6 +1,6 @@
 {
 	"Name": "Copa America",
-	"Version": 1791139395,
+	"Version": 1791331076,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -11,6 +11,7 @@
 				"52",
 				"7",
 				"258",
+				"9",
 				"13",
 				"14",
 				"16",
@@ -40,6 +41,7 @@
 				"303",
 				"267",
 				"46",
+				"308",
 				"49",
 				"51",
 				"294",
@@ -69,6 +71,7 @@
 				"296",
 				"98",
 				"100",
+				"103",
 				"275",
 				"105",
 				"106",
@@ -104,6 +107,7 @@
 				"255",
 				"149",
 				"150",
+				"153",
 				"155",
 				"266",
 				"163",
@@ -148,6 +152,7 @@
 				"235",
 				"238",
 				"249",
+				"250",
 				"251",
 				"293",
 				"257",
@@ -199,6 +204,10 @@
 				[
 					"315",
 					"212"
+				],
+				[
+					"150",
+					"220"
 				]
 			]
 		}
@@ -219,7 +228,7 @@
 			"SurvivorBalanceTiers": [
 				0
 			],
-			"AntiFacecampPermitted": true,
+			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
